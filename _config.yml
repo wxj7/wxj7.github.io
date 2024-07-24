@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+# 标题
+title: 12345
+# 描述
+description: This is my blog
+# 主题风格
+theme: jekyll-theme-primer
+# markdown增强功能
+markdown: kramdown
+
